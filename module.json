@@ -1,0 +1,14 @@
+{
+"name": "additionalproperties", 
+"title": "Additional Properties",
+"description": "Adds properties",
+"version": "0.1", 
+"author": "Fliren", 
+"systems": ["dnd5e"], 
+"styles": [], 
+"scripts": ["additionalProperties.js"], 
+"manifest": "https://raw.githubusercontent.com/KingFliren/AdditionalProperties/main/module.json", 
+"download": "https://github.com/KingFliren/AdditionalProperties/archive/main.zip", 
+"minimumCoreVersion": "0.7.0", 
+"compatibleCoreVersion": "0.7.9" 
+}
